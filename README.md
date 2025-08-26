@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**latifa007/latifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left"> Hello World! I'm latifa </h1>
 
-Here are some ideas to get you started:
+<p align="left">
+   <a href="https://www.linkedin.com/in/latifa-el-zeny-8bb321301"><img alt="LinkedIn" src="https://img.shields.io/badge/-latifa el zeny-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/latifa-el-zeny-8bb321301/"></a>
+   <a href="mailto:latifaalzaini0n@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-latifaalzaini0@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:latifaalzaini0@gmail.com"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">  Aspiring AI & Machine Learning Engineer | Artist at Heart | Lifelong Learner </h3>
+
+---
+
+<!-- credits for gif https://gph.is/g/ZWg5jr7 -->
+<img align="right" height="150" width="210" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ii-gY4avnTCGLL5-BNcGhQ.gif">
+
+- 😄 **Pronouns:** she/her 
+- 🎓 Computer Science student, future Master's in **AI & Machine Learning**  
+- 🌱 Currently learning: **Python**, **C#**, **React**, **HTML/CSS**  
+- 🌍 Passionate about making AI **eco-friendly** and using it to improve industries  
+- 🎨 I love drawing & painting, and I’ve recently started songwriting  
+- 📚 Avid reader & music lover (seriously, it’s a personality trait)
+  
+---
