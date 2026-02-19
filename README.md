@@ -13,11 +13,10 @@
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" height="150" width="210" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ii-gY4avnTCGLL5-BNcGhQ.gif">
 
-- 😄 **Pronouns:** she/her 
-- 🎓 Computer Science student, future Master's in **AI & Machine Learning**  
-- 🌱 Currently learning: **Python**, **C#**, **React**, **HTML/CSS**  
-- 🌍 Passionate about making AI **eco-friendly** and using it to improve industries  
-- 🎨 I love drawing & painting, and I’ve recently started songwriting  
-- 📚 Avid reader & music lover (seriously, it’s a personality trait)
+🎓 Computer Science student, future Master's in **Robotics -& AI?!!-**  
+🌱 Currently learning: **Python**, **C#**, **React**, **HTML/CSS**  
+🌍 Passionate about making AI **eco-friendly** and using it to improve industries  
+🎨 I love drawing & painting, and I’ve recently started songwriting  
+📚 Avid reader, movie watcher & music lover (seriously, it’s a personality trait)
   
 ---
