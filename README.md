@@ -17,6 +17,6 @@
 🌱 Currently learning: **Python**, **C#**, **React**, **HTML/CSS**  
 🌍 Passionate about making AI **eco-friendly** and using it to improve industries  
 🎨 I love drawing & painting, and I’ve recently started songwriting  
-📚 Avid reader, movie watcher & music lover (seriously, it’s a personality trait)
+🎵 Avid reader, movie watcher & music lover (seriously, it’s a personality trait)
   
 ---
